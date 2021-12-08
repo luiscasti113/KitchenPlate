@@ -1,0 +1,7 @@
+{
+  "name": "KitchenPlate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
